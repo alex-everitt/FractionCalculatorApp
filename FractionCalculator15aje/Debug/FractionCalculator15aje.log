@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  FractionCalculator15aje.cpp
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(9): warning C4273: 'Fraction::gcd': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(31): note: see previous definition of 'gcd'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(27): warning C4273: 'Fraction::reduce': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(30): note: see previous definition of 'reduce'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(45): warning C4273: 'Fraction::Fraction': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(27): note: see previous definition of '{ctor}'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(50): warning C4273: 'Fraction::Fraction': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(26): note: see previous definition of '{ctor}'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(77): warning C4273: 'Fraction::numerator': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(28): note: see previous definition of 'numerator'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(81): warning C4273: 'Fraction::denominator': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(29): note: see previous definition of 'denominator'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(87): warning C4273: 'Fraction::operator =': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(38): note: see previous definition of '='
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(92): warning C4273: 'Fraction::operator +': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(39): note: see previous definition of '+'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(112): warning C4273: 'Fraction::operator -': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(40): note: see previous definition of '-'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(118): warning C4273: 'Fraction::operator *': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(41): note: see previous definition of '*'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(181): warning C4273: 'Fraction::operator /': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(42): note: see previous definition of '/'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(187): warning C4273: 'Fraction::operator +=': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(44): note: see previous definition of '+='
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(196): warning C4273: 'Fraction::operator +=': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(45): note: see previous definition of '+='
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(202): warning C4273: 'Fraction::operator -=': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(46): note: see previous definition of '-='
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(211): warning C4273: 'Fraction::operator -': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(34): note: see previous definition of '-'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(219): warning C4273: 'Fraction::operator ++': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(35): note: see previous definition of '++'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(228): warning C4273: 'Fraction::operator ++': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(36): note: see previous definition of '++'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(283): warning C4273: 'FractionException::FractionException': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(71): note: see previous definition of '{ctor}'
+c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.cpp(287): warning C4273: 'FractionException::what': inconsistent dll linkage
+  c:\users\alex\source\repos\fractioncalculator15aje\fractioncalculator15aje\fractioncalculator15aje.h(72): note: see previous definition of 'what'
+  Generating Code...
+     Creating library C:\Users\Alex\source\repos\FractionCalculator15aje\Debug\FractionCalculator15aje.lib and object C:\Users\Alex\source\repos\FractionCalculator15aje\Debug\FractionCalculator15aje.exp
+  FractionCalculator15aje.vcxproj -> C:\Users\Alex\source\repos\FractionCalculator15aje\Debug\FractionCalculator15aje.dll
+  FractionCalculator15aje.vcxproj -> C:\Users\Alex\source\repos\FractionCalculator15aje\Debug\FractionCalculator15aje.pdb (Partial PDB)
